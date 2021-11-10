@@ -1,5 +1,5 @@
 ****************************************************************
-Pytorch Wavelet Toolbox (`ptwt`)  - Review Repository
+Pytorch Wavelet Toolbox (`ptwt`)  - Review Version
 ****************************************************************
 
 .. image:: https://github.com/wavelet-detection/Pytorch-Wavelet-Toolbox-Review/actions/workflows/tests.yml/badge.svg 
