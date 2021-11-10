@@ -23,7 +23,7 @@ Welcome to the PyTorch wavelet toolbox. This package implements:
 - adaptive wavelet support (experimental).
 
 This toolbox supports pywt-wavelets. Complete documentation is available:
-https://readthedocs.org/projects/pytorch-wavelet-toolbox-review/
+https://pytorch-wavelet-toolbox-review.readthedocs.io/en/latest/
 
 
 **Installation**
